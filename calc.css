@@ -1,0 +1,84 @@
+body{
+    /* background:linear-gradient(#0a0a0a,#3a4452); */
+    background:url(img.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100%;
+    font-size:40px;
+}
+h3{
+    color:aqua;
+}
+.navbar{
+    margin-left:28%;
+    width:40%;
+    height:50px;
+    background-color:white;
+    text-align:center;
+    background-color:transparent;
+}
+.page .navbar h3{
+    color:orange;
+}
+.page{
+    background:url(Sunset_Apache_Junction_Arizona.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+body  .moon{
+    background-image: url(moon-stars-fill.svg);
+    color:red;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+.page  .sun{
+    background:url(brightness-high-fill.svg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+.page .sign{
+    background-color:#ffdf01;
+    color:red;
+}
+.page #inputbox{
+    color:red;
+}
+.calculator{
+    /* border:2px solid black; */
+    width:30%;
+    height:444px;
+    background:transparent;
+    margin-left:35%;
+    margin-top:12%;
+    box-shadow: 0px 10px 36px grey;
+    border:none;
+}
+#inputbox{
+    width:80%;
+    height:10%;
+    font-size:30px;
+    margin:10%;
+    border:none;
+    background:transparent;
+    color:white;
+}
+button{
+    height:50px;
+    width:50px;
+    margin-left:10%;
+    margin-top:2%;
+    border-radius:50%;
+    box-shadow: 0px 10px 36px grey;
+    background:transparent;
+    color:white;
+    border:none;
+    font-size:21px;
+}
+img{
+    height:100%;
+    width:100%;
+    border-radius:50%;
+}
+.sign{
+    color:#f1cdb3;
+    background-color:#483664;
+}
