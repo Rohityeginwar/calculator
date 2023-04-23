@@ -82,3 +82,69 @@ img{
     color:#f1cdb3;
     background-color:#483664;
 }
+@media screen and (max-width:1316px){
+    .calculator{
+        height:500px;
+        width:36%;
+        margin-left:30%;
+    }
+}
+@media screen and (max-width:1286px){
+    .calculator{
+        height:500px;
+        width:36%;
+        margin-left:30%;
+    }
+}
+@media screen and (max-width:1098px){
+    .calculator{
+        height:500px;
+        width:40%;
+        margin-left:30%;
+    }
+}
+@media screen and (max-width:1076px){
+    .calculator{
+        height:500px;
+        width:45%;
+        margin-left:30%;
+    }
+}
+@media screen and (max-width:970px){
+    .calculator{
+        height:500px;
+        width:45%;
+        margin-left:30%;
+    }
+}
+@media screen and (max-width:954px){
+    .calculator{
+        height:500px;
+        width:45%;
+        margin-left:30%;
+    }
+}
+@media screen and (max-width:860px){
+    .calculator{
+        height:500px;
+        width:57%;
+        margin-left:20%;
+        margin-top:17%;
+    }
+}
+@media screen and (max-width:771px){
+    .calculator{
+        height:500px;
+        width:74%;
+        margin-left:13%;
+        margin-top:21%
+    }
+}
+@media screen and (max-width:591px){
+    .calculator{
+        height:500px;
+        width:84%;
+        margin-left:12%;
+        margin-top:21%
+    }
+}
